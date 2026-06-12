@@ -1,0 +1,81 @@
+MINI PROJECT: 2D GRAPHICS EDITOR
+
+Prompt History and AI Responses
+
+---
+
+Prompt 1:
+Write a C program for a 2D graphics editor using a 2D character array.
+
+Response:
+A basic program structure was generated using a 2D array as a canvas. The canvas was initialized with '_' characters to represent empty spaces.
+
+---
+
+Prompt 2:
+Add functions to draw a rectangle, line, triangle, and circle using '*' characters.
+
+Response:
+Separate functions were created for drawing each shape. The shapes were represented using '*' while the background remained filled with '_'.
+
+---
+
+Prompt 3:
+Make the program menu-driven and take input from the user.
+
+Response:
+A menu interface was added. Users could choose which shape to draw and enter the required dimensions for the selected shape.
+
+---
+
+Prompt 4:
+Simplify the input. I only want length and width for a rectangle, line length, triangle height, and circle radius.
+
+Response:
+The input process was simplified. Users now enter only the essential dimensions required for each shape, making the program easier to use.
+
+---
+
+Prompt 5:
+Display the drawing on the screen using the 2D array.
+
+Response:
+A display function was added to print the contents of the canvas. All shapes and empty spaces were shown directly on the console.
+
+---
+
+Prompt 6:
+Add an option to delete objects from the picture.
+
+Response:
+A delete feature was implemented. Selected regions of the canvas could be cleared by replacing '*' characters with '_'.
+
+---
+
+Prompt 7:
+Integrate all the features and provide the final code.
+
+Response:
+The complete program was generated with the following features:
+
+* 2D character array canvas
+* Rectangle, line, triangle, and circle drawing functions
+* Menu-driven user interface
+* User input for dimensions
+* Display function for showing the picture
+* Delete functionality for removing objects
+* Exit option
+
+---
+
+Prompt 8:
+Debug and refine the program.
+
+Response:
+The code was reviewed and improved. Minor corrections were made to input handling, drawing functions, and menu navigation to ensure proper execution.
+
+---
+
+Conclusion:
+
+The GenAI tool was used to assist in the design, implementation, debugging, and integration of the 2D Graphics Editor. The final program successfully fulfills the project requirements by providing shape drawing, object deletion, user interaction, and picture display using a 2D character array.
